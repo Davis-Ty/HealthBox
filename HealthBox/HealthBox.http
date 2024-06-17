@@ -1,0 +1,6 @@
+@HealthBox_HostAddress = http://localhost:5236
+
+GET {{HealthBox_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

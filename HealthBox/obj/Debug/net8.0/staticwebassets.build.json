@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "IcfP2sbD3zyP3j6uPmZqKaOr6oksvrvB/OhMrDiffVI=",
+  "Source": "HealthBox",
+  "BasePath": "_content/HealthBox",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HealthBox/wwwroot",
+      "Source": "HealthBox",
+      "ContentRoot": "/Users/loveone/Desktop/HealthBox/HealthBox/wwwroot/",
+      "BasePath": "_content/HealthBox",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/loveone/Desktop/HealthBox/HealthBox/wwwroot/index.html",
+      "SourceId": "HealthBox",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/loveone/Desktop/HealthBox/HealthBox/wwwroot/",
+      "BasePath": "_content/HealthBox",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

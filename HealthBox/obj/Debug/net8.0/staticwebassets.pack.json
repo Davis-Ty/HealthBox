@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/loveone/Desktop/HealthBox/HealthBox/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.HealthBox.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.HealthBox.props",
+      "PackagePath": "build\\HealthBox.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HealthBox.props",
+      "PackagePath": "buildMultiTargeting\\HealthBox.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HealthBox.props",
+      "PackagePath": "buildTransitive\\HealthBox.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
